@@ -1,6 +1,6 @@
 # vue-task
 
-![alt text](https://github.com/btkdevkh/vue-task/blob/main/assets/cover.png?raw=true)
+![alt text](https://github.com/btkdevkh/vue-task/blob/main/src/assets/cover.png?raw=true)
 
 ## Project Setup
 
